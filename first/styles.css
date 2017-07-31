@@ -1,0 +1,4 @@
+
+marquee {color: red; font: caption;}
+p {marquee behavior="alternate" direction="right"}
+input {display: block; margin: 0 auto;}
